@@ -35,7 +35,7 @@ pip install numpy opencv-python
 3. スクリプトを実行します
 
 ```bash
-python mnist-visualizer-japanese.py
+python pyVisualizeMnist.py
 ```
 
 ## 操作方法
